@@ -1,2 +1,6 @@
-# Initial page
+---
+description: 'Ceci est la première page, bienvenue.'
+---
+
+# Bonjour
 
